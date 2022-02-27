@@ -1,0 +1,39 @@
+{
+    "name": "vildanbina/livewire-tabs",
+    "description": "Laravel Livewire Tab Form component",
+    "keywords": [
+        "laravel",
+        "livewire",
+        "tabs",
+        "tab",
+        "form"
+    ],
+    "homepage": "https://github.com/vildanbina/livewire-tabs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vildan Bina",
+            "email": "vildanbina@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "livewire/livewire": "^2.0",
+        "spatie/laravel-package-tools": "^1.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vildanbina\\LivewireTabs\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vildanbina\\LivewireTabs\\LivewireTabsServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
