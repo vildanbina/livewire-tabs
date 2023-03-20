@@ -89,7 +89,7 @@ abstract class Tab extends ViewComponent implements Htmlable
 
     abstract public function title(): string;
 
-    public function view(string $view): static
+    public function viewContract(string $view): static
     {
         $this->view = $view;
 
