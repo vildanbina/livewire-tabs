@@ -165,12 +165,12 @@ use Vildanbina\LivewireTabs\Components\Tab;
 
 class General extends Tab
 {
-    public function onTabIn($name, $value)
+    public function onTabIn($newTab)
     {
         // Something you want
     }
 
-    public function onTabOut($name, $value)
+    public function onTabOut($oldTab)
     {
         // Something you want
     }

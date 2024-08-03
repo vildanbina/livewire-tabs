@@ -36,11 +36,11 @@ abstract class TabsComponent extends Component implements TabForm
     {
         $this->callHook('beforeSetTab', $this->activeTab, $tab);
 
-        $this->getCurrentTab()->callHook('onTabOut');
+        $this->getCurrentTab()->callHook('onTabOut', $this->activeTab);
 
         $this->activeTab = $tab;
 
-        $this->getCurrentTab()->callHook('onTabIn');
+        $this->getCurrentTab()->callHook('onTabIn', $tab);
 
         $this->callHook('afterSetTab', $this->activeTab, $tab);
     }
