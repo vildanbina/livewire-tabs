@@ -1,8 +1,8 @@
-[![Latest Stable Version](http://poser.pugx.org/vildanbina/livewire-tabs/v)](https://packagist.org/packages/vildanbina/livewire-tabs)
-[![Total Downloads](http://poser.pugx.org/vildanbina/livewire-tabs/downloads)](https://packagist.org/packages/vildanbina/livewire-tabs)
-[![Latest Unstable Version](http://poser.pugx.org/vildanbina/livewire-tabs/v/unstable)](https://packagist.org/packages/vildanbina/livewire-tabs)
-[![License](http://poser.pugx.org/vildanbina/livewire-tabs/license)](https://packagist.org/packages/vildanbina/livewire-tabs)
-[![PHP Version Require](http://poser.pugx.org/vildanbina/livewire-tabs/require/php)](https://packagist.org/packages/vildanbina/livewire-tabs)
+[![Latest Stable Version](https://poser.pugx.org/vildanbina/livewire-tabs/v)](https://packagist.org/packages/vildanbina/livewire-tabs)
+[![Total Downloads](https://poser.pugx.org/vildanbina/livewire-tabs/downloads)](https://packagist.org/packages/vildanbina/livewire-tabs)
+[![Latest Unstable Version](https://poser.pugx.org/vildanbina/livewire-tabs/v/unstable)](https://packagist.org/packages/vildanbina/livewire-tabs)
+[![License](https://poser.pugx.org/vildanbina/livewire-tabs/license)](https://packagist.org/packages/vildanbina/livewire-tabs)
+[![PHP Version Require](https://poser.pugx.org/vildanbina/livewire-tabs/require/php)](https://packagist.org/packages/vildanbina/livewire-tabs)
 
 A dynamic Laravel Livewire component for tab forms.
 
